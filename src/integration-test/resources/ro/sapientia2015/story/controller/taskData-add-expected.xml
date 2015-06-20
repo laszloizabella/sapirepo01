@@ -1,0 +1,6 @@
+<dataset>
+    <task id="1" description="Lorem ipsum" title="Foo" status="description1" version="0"/>
+    <task id="2" description="Lorem ipsum" title="Bar" status="description2" version="0"/>
+    <task id="3" description="description" title="title" status="description3" version="0"/>
+</dataset>
+
